@@ -16,3 +16,6 @@ Disclaimer
 The information and content in this article are provided solely for informational and educational purposes and is based on the author's experience and knowledge. The use of Sumo Logic as a sample for implementing a Security Information and Event Management (SIEM) system is for illustrative purposes only and does not constitute an endorsement or recommendation of the product by the author or the publisher. 
 
 Please note that the views expressed in this article are solely with the author or publisher and do not reflect the views of his current company.
+
+
+MD5 Hash: 211aa8f5bfdfb5916bff58345742c375
